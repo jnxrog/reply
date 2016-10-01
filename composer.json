@@ -1,0 +1,12 @@
+{
+    "name": "jnx/reply",
+    "require": {
+        "lcobucci/jwt": "^3.2"
+    },
+    "authors": [
+        {
+            "name": "Sokratis Ioannidis",
+            "email": "jnx@xrog.net"
+        }
+    ]
+}
